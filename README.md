@@ -1,2 +1,2 @@
 # MorseD
-A morse code translator, programmed in python.
+A morse code encoder, programmed in python.
